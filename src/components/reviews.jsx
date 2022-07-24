@@ -8,9 +8,9 @@ const Reviews = () => (
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">ABC's Review</h5>
         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint obcaecati molestiae atque, qui porro dolorem fugit ex architecto dignissimos ratione?</p>
-        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        <p class="card-text"><small class="text-muted">Last updated xx mins ago</small></p>
       </div>
     </div>
   </div>
