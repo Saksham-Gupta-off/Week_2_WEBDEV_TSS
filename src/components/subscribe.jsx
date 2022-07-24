@@ -20,7 +20,7 @@ const Subscribe = () => (
       <input type="text" class="form-control" id="inputAddress" />
     </div>
   </div>
-  <button type="submit" class="btn btn-primary">Sign in</button>
+  <button type="submit" class="btn btn-primary">Subscribe</button>
 </form>
 );
 
