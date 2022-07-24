@@ -3,15 +3,21 @@ import React from "react";
 const Subscribe = () => (
     <form class="">
   <div class="row mb-3">
-    <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+    <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
     <div class="col-sm-10">
-      <input type="email" class="form-control" id="inputEmail3" />
+      <input type="email" class="form-control" id="inputEmail" />
     </div>
   </div>
   <div class="row mb-3">
-    <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+    <label for="inputName" class="col-sm-2 col-form-label">Name</label>
     <div class="col-sm-10">
-      <input type="password" class="form-control" id="inputPassword3" />
+      <input type="text" class="form-control" id="inputName" />
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="inputAddress" class="col-sm-2 col-form-label">Hostel No.</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="inputAddress" />
     </div>
   </div>
   <button type="submit" class="btn btn-primary">Sign in</button>
